@@ -24,12 +24,12 @@ button {
   fill: rgb(177, 157, 216)!important;
 }
 
-.brick {
-  border: 1px solid #392e5c!important;
-}
-
 .brick--theme-grey {
   background: transparent!important;
+}
+
+.brick {
+  border: 1px solid #392e5c!important;
 }
 
 .mg-b-2 .c-background {
