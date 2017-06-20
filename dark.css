@@ -4,7 +4,7 @@
 */
 @charset "UTF-8";
 
-body {
+body, .fp-container {
   background: #0e0c13!important;
 }
 
@@ -14,6 +14,74 @@ a {
 
 button {
   color: white!important;
+}
+
+.fp-side {
+  background: #0e0c13!important;
+  box-shadow: inset 0 0 0 1px #392e5c!important;
+}
+
+.fp-side__footer {
+  background: #0e0c13!important;
+  box-shadow: inset 0 0 0 1px #392e5c!important;  
+}
+
+.fp-side__header {
+  color: white!important;
+}
+
+.fp-carousel__desc p {
+  color: white!important;
+}
+
+.fp-carousel__title {
+  color: #c1c0c1!important;
+}
+
+.header-announcement__link {
+  color: white!important;
+}
+
+.activity-card {
+  background: #0e0c13!important;
+  box-shadow: inset 0 0 0 1px #392e5c!important;
+}
+
+.activity-meta__name {
+  color: white!important;
+}
+
+.activity-body  p {
+  color: #c1c0c1!important;
+}
+
+.presentation a {
+  color: white!important;
+}
+
+.fp-container__pulse .ember-view .c-background {
+  background: transparent!important;
+}
+
+.fp-container__pulse .ember-view .c-background span {
+  color: white!important;
+}
+
+.activity-create__actions {
+  background: transparent!important;
+}
+
+.border {
+  border: 1px solid #392e5c!important;
+}
+
+.activity-card__comments {
+  background: transparent!important;
+  box-shadow: inset 0 -1px 0 #392e5c, inset -1px 0 0 #392e5c, inset 1px 0 0 #392e5c!important;
+}
+
+.balloon__list  li .balloon__link {
+  color: rgb(177, 157, 216)!important;
 }
 
 .balloon__list .ember-view .balloon__link {
@@ -34,6 +102,18 @@ button {
 
 .ember-chat .chatters-view .chatters-container #viewers {
   background-color: rgb(23, 20, 31)!important;
+}
+
+.friend-button a, .subscription-modal__button--new, .button--purchase {
+  color: white!important;
+}
+
+.profile-card__name {
+  color: white!important;
+}
+
+.ellipsis {
+  color: white!important;
 }
 
 .chat-menu-content p button:hover {
