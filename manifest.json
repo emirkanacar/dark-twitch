@@ -1,7 +1,7 @@
 {
   "name": "Dark Twitch",
   "description": "Twitch dark theme.",
-  "version": "1.0",
+  "version": "1.05",
   "permissions": ["https://*/*", "https://*/*"],
   "icons": {
     "16": "logo/icon_16.png",
