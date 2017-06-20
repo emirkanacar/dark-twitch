@@ -16,6 +16,60 @@ button {
   color: white!important;
 }
 
+.balloon__list .ember-view .balloon__link {
+  color: rgb(177, 157, 216)!important;
+}
+
+.js-edit-chat-appearance  button {
+  color: rgb(177, 157, 216)!important;
+}
+
+.js-edit-chat-appearance  button:hover {
+  text-decoration: underline;
+}
+
+.chat-menu-content p button {
+  color: rgb(177, 157, 216)!important;
+}
+
+.ember-chat .chatters-view .chatters-container #viewers {
+  background-color: rgb(23, 20, 31)!important;
+}
+
+.chat-menu-content p button:hover {
+  text-decoration: underline;
+}
+
+.ember-chat .chat-menu .list-header.first {
+  border-top: none!important;
+}
+
+.pinned-cheers .svg-bits-trophy, .pinned-cheers .svg-bits-hourglass g {
+  fill: rgb(177, 157, 216)!important;
+}
+
+.bits-toggle path {
+  fill: rgb(177, 157, 216)!important;
+}
+
+.dropmenu, .ui-menu, .ui-multiselect-menu {
+  background: #0e0c13!important;
+  border: 1px solid #392e5c!important;
+}
+
+.ember-chat .chat-menu .list-header {
+  color: white!important;
+  border-top: 1px solid rgba(255, 255, 255, 0.2)!important;
+}
+
+.ember-chat .chat-menu .chat-menu-content p input {
+  color: white!important;
+}
+
+.ember-chat .chat-menu .chat-menu-content p {
+  color: white!important;
+}
+
 .button--hollow, .button--radio, .button--checkbox {
   color: rgb(177, 157, 216)!important;
 }
@@ -59,7 +113,7 @@ button {
 
 .cn-bar {
   box-shadow: inset 0 -1px 0 #392e5c, 0 -1px 1px rgba(0,0,0,.06)!important;
-      background: #0e0c13!important;
+  background: #0e0c13!important;
 }
 
 .cn-tabs__item--withseparator:after {
