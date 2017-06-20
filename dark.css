@@ -1,5 +1,6 @@
 /* @Owner: @Relakith
-   @Version: 1.0  
+   @Version: 1.0.1
+   @Github: emirkanacar
 */
 @charset "UTF-8";
 
@@ -25,6 +26,10 @@ button {
 
 .brick {
   border: 1px solid #392e5c!important;
+}
+
+.brick--theme-grey {
+  background: transparent!important;
 }
 
 .mg-b-2 .c-background {
