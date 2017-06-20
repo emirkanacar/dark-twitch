@@ -1,0 +1,16 @@
+{
+  "name": "Dark Twitch",
+  "description": "Twitch dark theme.",
+  "version": "1.0",
+  "permissions": ["https://*/*", "https://*/*"],
+  "icons": {
+    "16": "logo/icon_16.png",
+    "48": "logo/icon_48.png",
+    "128": "logo/icon_128.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://www.twitch.tv/*"],
+    "css": ["dark.css"]
+    }],
+  "manifest_version": 2
+}

@@ -1,0 +1,274 @@
+/* @Owner : @Relakith */
+@charset "UTF-8";
+
+body {
+  background: #0e0c13!important;
+}
+
+a {
+  color: rgb(177, 157, 216)!important;
+}
+
+button {
+  color: white!important;
+}
+
+.button--hollow, .button--radio, .button--checkbox {
+  color: rgb(177, 157, 216)!important;
+}
+
+.button--icon.button--hollow figure svg {
+  fill: rgb(177, 157, 216)!important;
+}
+
+.brick {
+  border: 1px solid #392e5c!important;
+}
+
+.mg-b-2 .c-background {
+  background: #0e0c13!important;
+}
+
+.qa-card__title {
+  color: white!important;
+}
+
+.panels .panel .part .title {
+  color: #c1c0c1!important;
+}
+
+.twitch_subwindow_container .card, .kraken-embed .card, .kraken-page .card {
+  background: #0e0c13!important;
+}
+
+.card .channel-edits .text-content .content-header .h4 {
+  color: #c1c0c1!important;
+}
+
+.panel-formatting .panel .description hr {
+  color: rgb(177, 157, 216)!important;
+  background-color: rgb(177, 157, 216)!important;
+}
+
+.cn-bar {
+  box-shadow: inset 0 -1px 0 #392e5c, 0 -1px 1px rgba(0,0,0,.06)!important;
+      background: #0e0c13!important;
+}
+
+.cn-tabs__item--withseparator:after {
+      border-right: 1px solid #392e5c!important;
+}
+
+.cn-bar__displayname {
+  color: white!important;
+}
+
+.cn-tabs__item>a.active:after {
+  background-color: #6441a4!important;
+}
+
+.button--status.button--icon.button--icon-only figure svg {
+  fill: white!important;
+}
+
+.balloon {
+  border-radius: 1px!important;
+  background: #0e0c13!important;
+  color: #faf9fa!important;
+  box-shadow: 0 0 0 1px #392e5c, 0 1px 1px rgba(0,0,0,.25)!important;
+}
+
+.cn-notification-controls .toggle-notification-menu:before {
+  border-top: 5px solid rgba(255,255,255,.35)!important;
+}
+
+.switch:before {
+  color: white!important;
+}
+
+.cn-notification-controls .toggle-notification-menu {
+  background: #322f37!important;
+}
+
+.card__title a {
+  color: white!important;
+}
+
+.card__title a:hover {
+  text-decoration: underline!important;
+  color: rgb(177, 157, 216)!important;
+}
+
+.tw-tabs__item>a.active, .tw-tabs__item>button.active {
+  color: rgb(177, 157, 216)!important;
+  box-shadow: 0 -1px 0 rgb(177, 157, 216) inset!important;
+}
+
+.viewall a {
+  background-color: #181423!important;
+}
+
+.viewall a .text span, .viewall a .countries-input span {
+  color: white!important;
+}
+
+.card__title {
+  color: #6e6779!important;
+}
+
+.card__title:hover {
+  text-decoration: underline!important;
+  color: rgb(177, 157, 216)!important;
+}
+
+.panel-formatting .panel {
+  color: #6e6779!important;
+}
+
+.tw-tabs__item>a, .tw-tabs__item>button {
+  color: #6e6779!important;
+}
+
+.brick--theme-white {
+  background: transparent!important;
+}
+
+.chat-container {
+  background: #17141f!important;
+  color: #898395!important;
+  border-left: 1px solid #17141f!important;
+}
+
+.sticky-message--pinned-cheers {
+  background-color: #322f37!important;
+  border-bottom-color: #322f37!important;
+}
+
+.ember-view .pinned-cheer__top-bar {
+  color: #b19dd8!important;
+}
+
+.chat-header, .ember-chat-container.dark .chat-header {
+  color: white!important;
+  box-shadow: inset 0 -1px 0 0 #322f37!important;
+  background-color: #17141f!important;
+}
+
+.card__info a:hover {
+  text-decoration: underline!important;
+  color: rgb(177, 157, 216)!important;
+}
+
+.mixed-header__title {
+  color:: white!important;
+}
+
+.tw-tabs {
+  box-shadow: inset 0 -1px #6e6779!important;
+}
+
+.conversations-list {
+  background: #0e0c13!important;
+  border: 1px solid #392e5c!important;
+}
+
+.conversations-list .conversations-list-header {
+  background: #201c2b!important;
+  border-bottom: 1px solid #392e5c!important;
+}
+
+.flex__item--grow {
+  color: white!important;
+}
+
+.conversation-name {
+  color: white!important;
+}
+
+.conversations-list .conversation-preview-line .from,
+.conversations-list .conversation-preview-line .colon,
+.conversations-list .conversation-preview-line .message {
+  color: white!important;
+}
+
+.conversations-list .conversations-list-item {
+  border-bottom: 1px solid #392e5c!important;
+}
+
+.conversations-list .conversations-list-item:hover {
+  background-color: #392e5c!important;
+}
+
+.form__input[type=text],
+textarea.form__input {
+  box-shadow: inset 0 0 0 1px #392e5c, 0 0 0 transparent!important;
+  background-color: #201c2b!important;
+  color: #faf9fa!important;
+}
+
+.conversation-settings-menu {
+  background: #0e0c13!important;
+  border: 1px solid #392e5c!important;
+}
+
+.conversation-settings-menu .options-section a {
+  color: #b19dd8!important;
+}
+
+.conversation-window {
+  background: #0e0c13!important;
+  box-shadow: inset 0 0 0 1px #392e5c,
+              0 15px 45px 0 rgba(0,0,0,.2)!important;
+}
+
+.conversation-window .convoHeader {
+  box-shadow: inset 0 0 0 1px #392e5c, 0 2px 0 rgba(255,255,255,.05)!important;
+}
+
+.conversation-window .conversation-chat-line .message {
+  color: white!important;
+}
+
+.conversation-settings-menu .options-divider {
+  border-bottom: 1px solid #392e5c!important;
+}
+
+.emoticon-selector .emoticon-selector-box {
+  background: #0e0c13!important;
+  color: #cbc8d0!important;
+  box-shadow: inset 0 0 0 1px #392e5c!important;
+}
+
+.conversation-window .convoHeader {
+  background: #201c2b!important;
+}
+
+.conversations-content .conversations-list-bottom-bar {
+  background: #201c2b!important;
+  border: 1px solid #392e5c!important;
+}
+
+.emoticon-selector .emoticon-selector-box .all-emotes .emote-set {
+  border-bottom: 1px solid #392e5c!important;
+}
+
+.emoticon-selector .emoticon-selector__tabs {
+  color: #cbc8d0!important;
+  border-top: 1px solid #392e5c!important;
+}
+
+.border-t {
+  border-top: 1px solid #392e5c!important;
+}
+
+..conversation-window .convoHeader--user span {
+  color: white!important;
+}
+
+.emoticon-selector-toggle svg path {
+  fill: rgba(255,255,255,.2)!important;
+}
+
+.button--icon-only figure svg {
+  fill: #b19dd8!important;
+}
